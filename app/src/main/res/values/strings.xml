@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CoHelp</string>
+    <string name="homeResourceText">Home</string>
+    <string name="hospitalResourceText">Hospitals</string>
+    <string name="ngoResourceText">NGOs</string>
+    <string name="nav_bar_title">CoHelp</string>
+    <string name="nav_bar_bottomText">https://CoHelp-Website/index.html</string>
+    <string name="navigation_draw_open">Open navigation bar</string>
+    <string name="navigation_draw_close">Close navigation bar</string>
+    <string name="next">Go Next</string>
+    <string name="previous">Go previous</string>
+    <string name="sample">Text goes here</string>
+    <string name="covid_record_data">India Covid Record</string>
+    <string name="state_data_hint">Select your state to get latest data on Corona Cases</string>
+    <string name="ngo_heading_text">Get all the details of some of the largest NGOs\' across India</string>
+    <string name="hospital_heading_text">Get all the details of some of the largest Covid hospitals\' across India</string>
+    <string name="link">
+        <a href="https://amelia2802.github.io/CoHelp-Website/index.html">https://CoHelp-Website/index.html</a>
+    </string>
+
+</resources>

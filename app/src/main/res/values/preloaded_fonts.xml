@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amarante</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/cinzel_decorative_bold</item>
+        <item>@font/headland_one</item>
+        <item>@font/jacques_francois_shadow</item>
+        <item>@font/libre_baskerville</item>
+    </array>
+</resources>
